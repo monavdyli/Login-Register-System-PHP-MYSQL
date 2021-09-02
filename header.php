@@ -1,4 +1,4 @@
 <?php
-require_once 'includes/database.php';
-require_once 'includes/register-inc.php';
+require_once 'database.php';
+require_once 'register-inc.php';
 ?>
