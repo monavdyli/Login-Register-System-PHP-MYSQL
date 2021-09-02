@@ -3,7 +3,7 @@
 //db connection settings
 $dbhost = "localhost";
 $dbuser = "root";
-$dbpass = "staff123";
+$dbpass = "";
 $dbname = "project0";
 
 //connection to the database
